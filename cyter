@@ -215,7 +215,7 @@ switch
 {
 enum.id:(uni_MAC)==enum.device(uni_user:id);
 single:MAC"000_____"(multiple.id:login.admin:user["data"]);
-data<opus>.domain_unique:MAC::user_io<'$f'->'$M'->'$S'->*[@http,@https,@TLS,@SHCP,@DHCP,@SMAB,@ICMP,@DNS,@RNS,@RNC,@MNC,@MSC,@INC,@NMP,@WTP,@DHCP,@RMN,@BRC,@RDP,@PUA,@UDP,@RAS,@SNTP,'$f'->bluetooth,'$f'->wifi/ring_rout]ring:rout.enum;
+data<discrete>.domain_unique:MAC::user_io<'$f'->'$M'->'$S'->*[@http,@https,@TLS,@SHCP,@DHCP,@SMAB,@ICMP,@DNS,@RNS,@RNC,@MNC,@MSC,@INC,@NMP,@WTP,@DHCP,@RMN,@BRC,@RDP,@PUA,@UDP,@RAS,@SNTP,'$f'->bluetooth,'$f'->wifi/ring_rout]ring:rout.enum;
 }
 invoke
 {
