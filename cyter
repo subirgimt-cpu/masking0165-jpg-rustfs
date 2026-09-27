@@ -462,7 +462,7 @@ Exe!&&{=!}^==switch."sleep.segression";
 "state.segress.emul"=regex.enum::emulation;
 schedule.wrap.emulation==retrieve.<data.annotation>;
 }
-#Graph[F]
+auto_sync(Graph[F])
 {
 n=(1,2,3++,i*j);
 (i)=K(1,2,3++,n);
