@@ -143,7 +143,7 @@ _trans.z==buffer·snubber();
 _clock.trans==dZ(_trans.snubber());>>trunc.scanTrans(Graph[F])
 retrans(void);
 }
-trans_buffer()
+trunc_buffer()
 {
 include.cs(accronym:$spce)=<"audio.visuals">;
 recursive.code.state=="Graph[F].gx_sx(stream_words.bin:words,audio);
