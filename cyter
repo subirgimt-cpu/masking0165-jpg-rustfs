@@ -19,6 +19,7 @@ scan==Tx/Rx(on:connect_port);
 print.log==scan.log{""};
 start_scan(report)==scan.log{""};
 scan.window==stimulate{new:/n};
+dyn punc_code.ditch(gen:ext-adder);
 }
 
 #define("node_host<io:*/ip_MAC:id./data>")
