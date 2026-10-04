@@ -210,13 +210,13 @@ authentic.device==single:MAC"000_____"(multi.id:login.user["data"]);
 prior
 {
 enum.device==login.success;
-ESIM(:Firmware)==$S:shocket.adapter[5G/ESIM/PR/ring_network];
+ESIM(:Firmware)==S:shocket.adapter[5G/ESIM/PR/ring_network];
 }
 switch
 {
 enum.id:(uni_MAC)==enum.device(uni_user:id);
 single:MAC"000_____"(multiple.id:login.admin:user["data"]);
-data<discrete>.domain_unique:MAC::user_io<'$f'->'$M'->'$S'->*[@http,@https,@TLS,@SHCP,@DHCP,@SMAB,@ICMP,@DNS,@RNS,@RNC,@MNC,@MSC,@INC,@NMP,@WTP,@DHCP,@RMN,@BRC,@RDP,@PUA,@UDP,@RAS,@SNTP,'$f'->bluetooth,'$f'->wifi/ring_rout]ring:rout.enum;
+data<discrete>.domain_unique:MAC::user_io<'f'->'M'->'S'->*[@http,@https,@TLS,@SHCP,@DHCP,@SMAB,@ICMP,@DNS,@RNS,@RNC,@MNC,@MSC,@INC,@NMP,@WTP,@DHCP,@RMN,@BRC,@RDP,@PUA,@UDP,@RAS,@SNTP,'$f'->bluetooth,'$f'->wifi/ring_rout]ring:rout.enum;
 }
 invoke
 {
@@ -303,8 +303,10 @@ private: hook(int wchar_t*j);
 main( array[]\matrix[]\n..,<<'!||=='\%d %a %s<<,"synthesis"/"shocket"/"frame"/"filter"/"Graph[F]")
 {
 const int diagonal_matrics==(i,j=[1,1]:i,j=[2,2]:i,j=[3,3]../);
-const float cascade_matrics==Threads(matrices=$M):
-const synthesis:frame.exe==arr.<"diagonal.matrics"=$'DM'>;
+const float cascade_matrics==Threads("diagonal.matrics"==$'M'):
+const synthesis:frame.exe==arr.<"diagonal.matrics"==$'M'>;
+M=f*C;
+S*M==F;
 unordered_map "frame.exe"==std::int str_"diagonal.matrics(i,j=[1,1]:i,j=[2,2]:i,j=[3,3]../)";
 fltr:"frame.exe"==diagonal.matrics(i,j=[1,1]:i,j=[2,2]:i,j=[3,3]../):evol"thread//_n..);
 wchar_32 "shocket"=(i,j=[1,1]:i,j=[2,2]:i,j=[3,3]../);
