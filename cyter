@@ -1,4 +1,4 @@
-./autosync.linkbuffer<custom:node_boot.*Tx*Rx:&_gcc/nasm/.o/.s/.c/.txt/.exe/.gnu/.gcc/.gui/.clang/.ld>
+./autosync.linkbuffer<custom:native.node_boot.*Tx*Rx:&_gcc/nasm/.o/.s/.c/.txt/.exe/.gnu/.gcc/.gui/.clang/.ld>
 #inclde_eval(autosync.linkbuffer:'F')
 #include_evol(cachesync.linkbuffer)
 #include_impl(autolink.sync:cache[_]/n..)
@@ -201,7 +201,7 @@ check.admin:native("&&""||"!&&")=native:*"IO":in_node.device;
 enter
 {
 native:ip(sizeof("0000.0000.0000.0000")=host.id:[init:MAC:id("&%s:sizeof[*"%c,%d]:);
-device.login=enum.complete(checksum>>ESP_net/u8f/ssh256/ssh512/ssl);
+device.login=enum.complete(checksum>>globe_net/u8f/ssh256/ssh512/ssl);
 }
 foil
 {
@@ -269,7 +269,7 @@ clause_epic.import(Init.dDevice<//path/n>)
 clause.value="[]".((Syntax,simanti,"parse:u.com \n_..));
 Value=(serial<<data<<);
 create app_Data==APIs/UPI:'F'<apps:apk"//http:/UDP:/MCNP:/TDP:/NMTP:/ICMP:/SNMP:/RNCP:/RNMP:/ISL:/TSL:/SSL:/TLS:/SHCP:/@DHCP:/SMAB:/ICMP:/DNS:/RNS:/RNC:/MNC:/MSC:/INC:/NMP:/WTP:/DHCP:/RMN:/BRC:/RDP:/PUA:/UDP:/RAS:/SNTP,ringrout_sequence:("./.elf")">;
-auto:push.clause=strap.gen<"data:">;
+auto:pop.clause=strap.gen<"data:">;
 auto.enum.embed(boot:'%s',%d ,%f && %c,%l&%ul,%ln&%uln\n);
 boot:proc.
     run:(virtual:cache
@@ -475,8 +475,8 @@ K=(+/-)dz^270;
 X=5.0f;
 Y=5.0f;
 Z=5.0f;
-'F'*[X.Y.Z]==3(sin⁶i+cos⁶j)×(h×K)×(1,2,3++,i×j);
-Gradient.motion.Edge(motion:K*h)==(k*h).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
+[X.Y.Z]=='5F'*(sin⁶i+cos⁶j)×(h×K)×(1,2,3++,i×j);
+Gradient.motion.Edge(motion:K*h)==(K*h).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
 recurse@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
 ruster.ln<"revert★№№№‡"=RX:(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
@@ -512,4 +512,4 @@ autorepeat.procexe(install:proc.dir)
 }
 linkstate.codestatic(.enum)
 linkstate.clock_asist(syndromes:"./cyter/install/boot_dir/proc_dir")
-{
+
