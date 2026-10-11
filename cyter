@@ -5,7 +5,7 @@
 #include_emul(autosync.link'F'cache::buffer)
 using_stdbuffer_namespace;
 using_stdflag_namespace;
-#define(device_'f'_DEBUG:'f'"boot:&-$C->$S->$M->$f-"<<'F'/result{_})
+#define(device_'M'_:'C'"boot:&-C->S->M->-"<<'F'/result{_})
 #debug.app(.Graph[F])
 #autoscan.devicebuffer(scan:matrix<<D)
 #autofetch.matricsbuffer(M)
