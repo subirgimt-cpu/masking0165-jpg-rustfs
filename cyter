@@ -429,14 +429,14 @@ Exe1::
 invoke:"emul(dispair_augment_impl)"
 
 }
-#sleep:1
+#sleep:1;
 {
 {
 Base.ramp.relocator=dir.data.modifier;
 Header.bang.(least:string)=data.conj::&str{ };
 conjunc.data=cascade::(&str{}{}).rejoice;
 }
-#hop:2
+#hop:2;
 New.buff.assign=virtual.mem:cache.gene;
 Header.trace.parameter=(lib.sync.update);
 load.data.lib=streched.<"new.upgrades">;
@@ -461,22 +461,22 @@ Load.label.opearation==mapp.memmry.execution;
 volume.ratio==1:set<volume:1[litigate]!;
 {
 Cache.allocation=(phase.hop.exec);
-Exe!&&{=!}^==switch."sleep.segression";
+Exe&&!||==switch."sleep.segression";
 "state.segress.emul"=regex.enum::emulation;
 schedule.wrap.emulation==retrieve.<data.annotation>;
 }
-auto_sync(Graph[F])
+#Graph[F]
 {
 n=(1,2,3++,i*j);
 (i)=K(1,2,3++,n);
 (j)=h(1,2,3++,n);
-h=(-/+)dn^180°;
+H=(-/+)dn^180°;
 K=(+/-)dz^270;
 X=5.0f;
 Y=5.0f;
 Z=5.0f;
-[X.Y.Z]=='5F'*(sin⁶i+cos⁶j)×(h×K)×(1,2,3++,i×j);
-Gradient.motion.Edge(motion:K*h)==(K*h).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
+'F'×[X.Y.Z]=='S'*(sin⁶i+cos⁶j)×(h×K)×(i×j);
+Gradient.motion.Edge(motion:K*h)==(K*H).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
 recurse@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
 ruster.ln<"revert★№№№‡"=RX:(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
