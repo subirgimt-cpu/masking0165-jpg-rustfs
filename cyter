@@ -1,4 +1,4 @@
-./autosync.linkbuffer<custom:native.node_boot.*Tx*Rx:&_gcc/nasm/.o/.s/.c/.txt/.exe/.gnu/.gcc/.gui/.clang/.ld>
+./autosync.linkbuffer<custom:native.node_boot.*Tx*Rx:&_gcc/nasm/.o/.s/.c/.txt/.exe/.gnu/.gcc/.gui/.clang/.ld/.elf>
 #inclde_eval(autosync.linkbuffer:'F')
 #include_evol(cachesync.linkbuffer)
 #include_impl(autolink.sync:cache[_]/n..)
@@ -15,7 +15,7 @@ name_space.buffer;
 autolink.scanbuffer(USB/URT/IC2//SPI/CAN)
 {
 buffer.bitmap.register==clock.asist(interface:io);
-scan==Tx/Rx(on:connect_port);
+scan==Tx||Rx(on:connect_port);
 print.log==scan.log{""};
 start_scan(report)==scan.log{""};
 scan.window==stimulate{new:/n};
@@ -51,16 +51,16 @@ std::typeid MACassist_io("IP"dynamic.stray_registry:$(const"IO"))==std::typename
 static system.Debug:(synthesis<<Graph[F]<<hook_shocket<<faragments<<[results]<<segration*hex/bin/boolean/n..)
 {
 #deftype_protect.core<modem,USB,accomodate,trunc_facility>
-#defTop_trunc.optimiz([Rx][Tx]<encode,decode_enum:restrict)
+#defTop_trunc.optimiz([Rx]||[Tx]<encode,decode_enum:restrict)
 
 can_rebate.hook==data_channel(&*@//ecentric_node);
-bitmap<Aux_TxRx>==emulate.RxTx[controll];
+bitmap<Aux_Tx.Rx>==emulate.RxTx[controll];
 std::enum 'tap_Top'==init:&(emul'F':cpu_proc);
 tap=O;
 while 
 top=1;
 tap.top(clk)==dynamic.excent('f'controll);
-return_Top==impl.optimiz(_/exec/adoption/n/seqnce_node);
+return_Top==impl.optimum(_/exec/adoption/n/seqnce_node);
 }
 return"compact(cyter_rootmap/bitmap/_boot.sequence)"
 {concatenate.bufferlink<device.enum\platforms>
@@ -71,12 +71,12 @@ concatinate==buffer<evol>;
 }
 struct_lane(enum,)
 {
-linkstate.codestatic_enum(gyrospace.<cascade:&($C).synthesis/&($S).fragment/&($F).matrics($M))
+linkstate.codestatic_enum(gyrospace.<cascade:&($C).synthesis/&(S).fragment/&($F).matrics($M))
 }
 log_I:
-refrsh.log==single[log:report];
+refrsh.log==synth.[log:report];
 {
-[autosync.linkebuffer<aqisit:exe/grph.x>;
+[autosync.linkebuffer<aqisit:exe/Grph.F>;
 autolink.syncbuffer<exe:modem>;
 automatic.baseband<pave.ports:ESIM<<IMSI*>;
 autostable.broadband<pivot.ports:SIM<<ENV_LTE*unlimited//;
@@ -134,22 +134,22 @@ trans.compile:bool.comb(".eval")==value.exe;
 if_char==int*/%d_%f_%c_%a_%s:words;
 
 exec_(read_&_write:protect)==transfer#<ASCI*(u8)>;
-status.bug<<u8f=="u8f"<<ASCI_"base(64/58/32/16/8)";
+status.bug<<utf8=="utf8"<<ASCI_"base_utf(64/58/32/16/8)";
 }
 
-Snubber_trans.z(dZ)
+Snubber_trans>n(dZ)
 {
-arc_tan·90=snubber;
-arc_trans.z==buffer·snubber();
-arc_clock.trans==dZ(_trans.snubber());>>trunc.scanTrans(Graph[F])
+arc_tan·90°=snubber;
+arc_trans.n==buffer·snubber();
+arc_clock.trans==n.dZ(_trans.snubber());>>trunc.scanTrans(Graph[F])
 retrans(void);
 }
 trunc_buffer()
 {
-include.cs(accronym:$spce)=<"audio.visuals">;
-recursive.code.state=="Graph[F].gx_sx(stream_words.bin:words,audio);
+include.(accronym:$spce)=<"audio.visuals">;
+recursive.code.state=="Graph[F].gx_fx(stream_words.bin:words,audio);
 }
-visual.state==pixel.accum(px"aux.gx_sx(stream.object.bin:Grph.F);
+visual.state==pixel.accum(px"aux.gx_fx(stream.object.bin:Grph.F);
                           {
 include."Graph[F]":px(drawable:$objec)=<Graph:"Graph.F">;
 }
@@ -210,7 +210,7 @@ authentic.device==single:MAC"000_____"(multi.id:login.user["data"]);
 prior
 {
 enum.device==login.success;
-ESIM(:Firmware)==S:shocket.adapter[5G/ESIM/PR/ring_network];
+ESIM(SMS||MMS:Firmware)==S:shocket.adapter:C*[5G/ESIM/PR/ring_network];
 }
 switch
 {
@@ -475,17 +475,17 @@ K=(+/-)arc^270;
 X=5.0f;
 Y=5.0f;
 Z=5.0f;
-'F'×[X.Y.Z]=='S'*(sin⁶i+cos⁶j)×(h×K)×(i×j);
+'F'×[X.Y.Z]=='S'*(sin⁶i+cos⁶j)×(h×K)×(i×j):M;
 Gradient.motion.Edge(motion:K*h)==(K*H).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
 recurse@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
 ruster.ln<"revert★№№№‡"=RX:(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
-Implicate_ethrial(codetest.sh//XML)
+Implicate_ethrial<S*(codetest.sh//XML)
 bootstrap.frame(.evol)
 {
-test_init(&Graph.[ammoled:3d]<<"_.gnu,_.gpu.io"<<())
+test_init(&Graph.F[3d]<<"_.gnu,_.gpu.io"<<())
 {
-recursive.grs@/frame/*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin!())
+recursive.grf@/frame/*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin!())
 bitmap_gpr.ln<"optometry★№№№‡"=RX:(HTML\\utf-8\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
  }
 }
