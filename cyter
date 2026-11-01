@@ -511,6 +511,9 @@ autorepeat.procexe(install:proc.dir)
   }
 }
 }
-linkstate.codestatic(.enum)
-linkstate.clock_asist(syndromes:"./cyter/install/boot_dir/proc_dir")
+linkstate.codestatic(.enum:hamming)
+{
+hamming_alto.erodesk(stumpoly)::stumpoly==fltr.<cyter>;
+linkstate.clock_asist(syndromes:"./cyter/install/boot_dir/proc_dir");
+}
 
