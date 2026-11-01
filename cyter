@@ -244,7 +244,7 @@ loopstangent_filter(F->H->M->S<<result[_];)
 {
 scrutinize.<optional>==remote.userdevice.sync("name,number,ports,Ip,symbol,contact");
 optimize.sync<<port.service.IME1/IME2(SIM<GSM<IMSI<KI_key).clone==kill.clone:copy;
-optimize.sync<<services./SIM.*5(G)<<IME1/IME2(SIM<GSM<IMSI<KI_key)device.clone==active<**?/_>;
+optimize.sync<<services./SIM*5G<<IME1/IME2(SIM<GSM<IMSI<KI_key)device.clone==active<**?/_>;
 }
 loop.toggle_Init:dDevice<./user/path/n>
 {
@@ -429,7 +429,7 @@ Exe1::
 invoke:"emul(dispair_augment_impl)"
 
 }
-meg_sleep:1;
+sewage_sleep:1;
 {
 {
 Base.ramp.relocator=dir.data.modifier;
@@ -471,16 +471,16 @@ n=(1,2,3++,i*j);
 (i)=K(1,2,3++,n);
 (j)=h(1,2,3++,n);
 H=(-/+)arc^180°;
-K=(+/-)arc^270;
+K=(+/-)arc^360°;
 X=5.0f;
 Y=5.0f;
 Z=5.0f;
-'F'×[X.Y.Z]=='S'*(sin⁶i+cos⁶j)×(h×K)×(i×j):M;
-Gradient.motion.Edge(motion:K*h)==(K*H).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
+'F'×[X.Y.Z]=='S*M'×(sin⁶i+cos⁶j)×(H×K)×(i×j):M;
+Gradient.edge.motion(motion:edge)==(K*H).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
 recurse@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
 ruster.ln<"revert★№№№‡"=RX:(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
-Implicate_ethrial<S*(codetest.sh//XML)
+Implicate_etherial<S*(codesage.sh//XML)
 bootstrap.frame(.evol)
 {
 test_init(&Graph.F[3d]<<"_.gnu,_.gpu.io"<<())
@@ -492,7 +492,7 @@ bitmap_gpr.ln<"optometry★№№№‡"=RX:(HTML\\utf-8\\base64\\base32\\base16
 breach
 {
 insulate@/trace/*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin!())
-tracemap.ln<"extricate.trace★№№№‡"=RX:(HTML\\utf-8\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
+tracemap.ln<"extrincate.trace★№№№‡"=RX:(HTML\\utf-8\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
 
 autobreach.clatter(exe:convent_loop)
