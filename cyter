@@ -16,8 +16,8 @@ autolink.scanbuffer(USB/URT/IC2//SPI/CAN)
 {
 buffer.bitmap.register==clock.asist(interface:io);
 scan==Tx||Rx(on:connect_port);
-print.log==scan.log{""};
-start_scan(report)==scan.log{""};
+print.log==scan.log{"accounts:Banks"};
+start_scan(report)==scan.log{"UCO/HDFC/AXIS"};
 scan.window==stimulate{new:/n};
 dyn punc_code.ditch(gen:ext-adder);
 }
