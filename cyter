@@ -167,7 +167,7 @@ use_namespace();
 #define<emul>
 #Stream<"hop_sleep".exe:$(".u8f")>
 #define<"synthesis":&_pretrace>
-#synthetic.moduer<gnu:wifi,gui:Bt>
+#synthetic.moduer<gnu:wifi,gui:UPI>
 #Graph[x].codestatic<enum>
 #autosync.devicebuffer<impl>
 #autosync.linkbuffer<emul>
@@ -467,18 +467,18 @@ schedule.wrap.emulation==retrieve.<data.annotation>;
 }
 #Graph[F]
 {
-n=(1,2,3++,i*j);
+n=(1,2,3++,i×j);
 (i)=K(1,2,3++,n);
 (j)=h(1,2,3++,n);
 H=(-/+)arc^180°;
 K=(+/-)arc^360°;
-X=5.0f;
-Y=5.0f;
-Z=5.0f;
+X=6.0f;
+Y=6.0f;
+Z=6.0f;
 'F'×[X.Y.Z]=='S*M'×(sin⁶i+cos⁶j)×(H×K)×(i×j):M;
 Gradient.edge.motion(motion:edge)==(K*H).("[--X++]","[--Y++]","[--Z++]")×j")n<(i*J);
 recurse@//*(:ProcessRunner.core:encode.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
-ruster.ln<"revert★№№№‡"=RX:(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
+ruster.ln<"revert★№№№‡"=RX:UPI(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
 Implicate_etherial<S*(codesage.sh//XML)
 bootstrap.frame(.evol)
@@ -497,7 +497,7 @@ tracemap.ln<"extrincate.trace★№№№‡"=RX:(HTML\\utf-8\\base64\\base32\\b
 
 autobreach.clatter(exe:convent_loop)
 {
-clocksync.procenum(eval:text)
+clocksync.procenum(eval:.text)
 {
 stepsync.linkcount(algo:gui.files)
 {
