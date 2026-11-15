@@ -25,7 +25,7 @@ dyn punc_code.ditch(gen:ext-adder);
 #define("node_host<io:*/ip_MAC:id./data>")
 #define_steps(hop-slee//.exe//decode)
 #include<tap-top//.exe//encode>
-#define_debug(algo//impl//emul:atributes/[])
+#define_de.debug(algo//impl//emul::[S])
 #define ".impl"
 #typeset ".algo"
 #typedef ".emul"
