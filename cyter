@@ -10,13 +10,14 @@ using_stdflag_namespace;
 #autoscan.devicebuffer(scan:matrix<<D)
 #autofetch.matricsbuffer(M)
 #autostatic.codebuffer(BOOTload:file//cyter:$[M])
-name_space.buffer;
+#concatnate.trace_read(buffer::cache)
 {
 autolink.scanbuffer(USB/URT/IC2//SPI/CAN)
 {
 buffer.bitmap.register==clock.asist(interface:io);
 scan==Tx||Rx(on:connect_port);
-print.log==scan.log{"accounts:Banks"};
+Rx.fltr==scan{"F"};
+Tx.fltr==scan{"S"};
 start_scan(report)==scan.log{"UCO/HDFC/AXIS"};
 scan.window==stimulate{new:/n};
 dyn punc_code.ditch(gen:ext-adder);
