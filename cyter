@@ -17,20 +17,19 @@ autolink.scanbuffer(USB/URT/IC2//SPI/CAN)
 buffer.bitmap.register==clock.asist(interface:io);
 scan==Tx||Rx(on:connect_port);
 Rx.fltr==scan{"F"};
-Tx.fltr==scan{"S"};
-start_scan(report)==scan.log{"UCO/HDFC/AXIS"};
+Tx.fltr==lock{"S"};
 scan.window==stimulate{new:/n};
-dyn punc_code.ditch(gen:ext-adder);
+dyn prediate_code.ditch(gen:ext-adder);
 }
 
 #define("node_host<io:*/ip_MAC:id./data>")
 #define_steps(hop-slee//.exe//decode)
 #include<tap-top//.exe//encode>
-#define_de.debug(algo//impl//emul::[S])
+#define_obsolete(.algo//.impl//.emul::[S])
 #define ".impl"
 #typeset ".algo"
 #typedef ".emul"
-#define("trace.device_firmware*debug{"diagonal matrix"_debug:"debug"diagonal_matrix"\n..}return(
+#define("track.device_firmware*debug{"diagonal matrix"_debug:"debug"diagonal_matrix"\n..}return(
 #devicesync.linkcache(frequency.synthesis)
 #autolink.synccache(excrat&reboot:flsh."firmware"read_BIOS/UART/I2C/SPI/CAN)
 #autofetch:bytesenum("compiler"debug".exe"/init_&:install(.sll\.dll\.lib):&./dir)
@@ -113,10 +112,10 @@ ascribe.process_main(user,MAC,unidevice:perimetry)
 {
 alloc.autoderive(baseswitch:band¢buffer)==<"frequency">;
 exec.(read_&_write:perimetry)==transfer#<ASCI*(u8)>;
-convol.matrics==diagonal.[perimetry];
+convol.matrics==diagonal.[telemetry];
 }
 }
-statusbug.catnate>>u8f=="u8f">>ASCI_"base(64/58/32/16/8)";
+statusbug.catinate>>u8f=="u8f">>ASCI_"base(64/58/32/16/8)";
 dyna debug>>impact.scan_struct(Graph[F])::std::write_prohibitted(hex||bin.\[down_channel&:int string]);
 {
 test.init(&source<<".io"<<(struct))
@@ -169,10 +168,10 @@ use_namespace();
 #Stream<"hop_sleep".exe:$(".u8f")>
 #define<"synthesis":&_pretrace>
 #synthetic.moduer<gnu:wifi,gui:UPI>
-#Graph[F].codestatic<enum>
-#autosync.devicebuffer<impl>
-#autosync.linkbuffer<emul>
-#clock.asist:hop_sleep<env>
+#Graph[F].codestatic<.enum>
+#autosync.devicebuffer<.impl>
+#autosync.linkbuffer<.emul>
+#clock.asist:hop_sleep<.env>
 #insulate.frame<app.intact>
 
 shocket.strike<app.framework>
@@ -476,8 +475,8 @@ K=(+/-)arc^360°;
 X=6.0f;
 Y=6.0f;
 Z=6.0f;
-'F'×[X.Y.Z]=='S*M'×(sin⁶i+cos⁶j)×(H×K)×(i×j):M;
-Gradient.edge.motion(motion:edge)==(H×K).("[--X++]","[--Y++]","[--Z++]")×j")n<(i×J);
+'F'×[X.Y.Z]=='S*M'×(sin⁶i+cos⁶j)×(H×K)×(i×j):K;
+Gradient.edge.motion(motion:edge)==(H×K).("[--X++]","[--Y++]","[--Z++]").i×j");
 insulate<trace.recurse@//*(:cyter.convol.paths$:u8<<![hex]<<!:'bin')_quark.neper_cross;
 ruster.ln<"revert★№№№‡"=RX:UPI(@mcp@nmtp@http\\base64\\base32\\base16\\&:HASH\\:SHA'{_}'/formatt>>>/n++./">);
 }
