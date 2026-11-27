@@ -1,4 +1,4 @@
-./autosync.linkbuffer<custom:native.node_boot.*Tx*Rx:&_gcc/nasm/.o/.s/.c/.txt/.exe/.gnu/.gcc/.gui/.clang/.ld/.elf>
+./autosync.linkbuffer<custom:native.node_boot.*Tx*Rx:&_gcc/nasm>
 #inclde_eval(autosync.linkbuffer:'F')
 #include_evol(cachesync.linkbuffer)
 #include_impl(autolink.sync:cache[_]/n..)
@@ -82,7 +82,7 @@ automatic.baseband<pave.ports:ESIM<<IMSI*>;
 autostable.broadband<pivot.ports:SIM<<ENV_LTE*unlimited//;
 autocatch.loadbuffer<threads:patch>;
 autoswich.loadbuffer<versions\Generation\update>;
-redefine.dynamic.module<trans.gpix|.gui:[Grph.F].os>;
+redefine.dynamic.module<trans.gpix|.gui:[Grph.F]>;
 diagonal.trace.exe<.app>;
 config.remote.trunc<.trap>;
 dispair.Account<extern:%d%c%s>;
@@ -201,7 +201,7 @@ check.admin:native("&&""||"!&&")=native:*"IO":in_node.device;
 enter
 {
 native:ip(sizeof("0000.0000.0000.0000")=host.id:[init:MAC:id("&%s:sizeof[*"%c,%d]:);
-device.login=enum.complete(checksum>>globe_net/u8f/ssh256/ssh512/ssl);
+device.login=enum.complete(checksum>>globe_net/u8f/ssh256/ssh512/ssl/dsl);
 }
 foil
 {
@@ -244,7 +244,7 @@ loopstangent_filter(F->H->M->S<<result[_];)
 {
 scrutinize.<optional>==remote.userdevice.sync("name,number,ports,Ip,symbol,contact");
 optimize.sync<<port.service.IME1/IME2(SIM<GSM<IMSI<KI_key).clone==kill.clone:copy;
-optimize.sync<<services./SIM*5G<<IME1/IME2(SIM<GSM<IMSI<KI_key)device.clone==active<**?/_>;
+optimize.sync<<services./SIM*5G<<IME1/IME2(SIM<GSM<IMSI<KI_key)device.clone==inactive<**?/_>;
 }
 loop.toggle_Init:dDevice<./user/path/n>
 {
@@ -268,7 +268,7 @@ auto.parse=simantic"data";
 clause_epic.import(Init.dDevice<//path/n>)
 clause.value="[]".((Syntax,simanti,"parse:u.com \n_..));
 Value=(serial<<data<<);
-create app_Data==APIs/UPI:'F'<apps:apk"//http:/UDP:/MCNP:/TDP:/NMTP:/ICMP:/SNMP:/RNCP:/RNMP:/ISL:/TSL:/SSL:/TLS:/SHCP:/@DHCP:/SMAB:/ICMP:/DNS:/RNS:/RNC:/MNC:/MSC:/INC:/NMP:/WTP:/DHCP:/RMN:/BRC:/RDP:/PUA:/UDP:/RAS:/SNTP,ringrout_sequence:("./.elf")">;
+create app_Data==APIs/UPI:'F'<apps:sdk||apk"/device/dDevice,ringrout_sequence:("./.elf")">;
 auto:pop.clause=strap.gen<"data:">;
 auto.enum.embed(boot:'%s',%d ,%f && %c,%l&%ul,%ln&%uln\n);
 boot:proc.
@@ -296,8 +296,8 @@ public:
 wchar_t str:shocket_i=converg.[frame=j];
 wchar_t str:hook_j=converge.[i=tangent];
 class diagonal_matrix{
-private: shocket(int wchar_t*i);
-private: hook(int wchar_t*j);
+private: shocket(int wchar_64*i×j);
+private: hook(int wchar_64*i×j);
 }
 }
 main( array[]\matrix[]\n..,<<'!||=='\%d %a %s<<,"synthesis"/"shocket"/"frame"/"filter"/"Graph[F]")
@@ -313,7 +313,7 @@ wchar_64"shocket"=(i,j=[1,1]:i,j=[2,2]:i,j=[3,3]../);
 extern reject.frame<shocket>!§frame.brace<hook>;
 extern rebate.hook=diverge(i,j=[1,!]:i,j=[2,!]:i,j=[3,!]../);
 fltr.strike:shocket<strike:extr>("application.shocket:framework")
-create.static.ordeder==insulate.astain:&("!.IT/search=?!"{ }":&<shoket.strike<framework>"venum[trans:hook]">);
+create.static.ordeder==insulate.astain:&("!.?IT/search=?!"{ }":&<shoket.strike<framework>"venum[trans:hook]">);
 create.static.ordeder==run.pivot:algo<framework>;
 check.shocket==strike<framework>;
 app_{run.filter:&("!"<framework)"}.<"filter":&(strike.push_synthesis)>==(unmatch."app:framework<:pivot!&<shocket.<framework>>");
@@ -361,7 +361,7 @@ auto.enum.(boot:%c\n,(auto.parse==("debug"data)));
 trim:id.stream*{encoding,decoding,Recoding[.];
 u8,utf8,base58,crate58,base[lower</upper<8,16,32,64,58)}
 encounter.stream='00 x O'.h adopt.extern[':byte*\n'],
-restrain.entropy.test[./(hash:segreation_files),(hash:gemeration_files]; 
+restrain.entropy.test[./(hash:segreation_files),(hash:generation_files]; 
 load:import.return.recursive.input=axiom.lib[(.sll/.dll),(.exe/.lib/.obj)];
 }
 #heap
